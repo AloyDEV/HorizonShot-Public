@@ -24,3 +24,11 @@ Severe errors are logged into HShot.log in the EXE directory.
 * Editor: Inserting text: Text is editable until another item (arrow, line, box, etc) is drawn on the image.
 
 * Editor: If errors in the editor are encountered, there should be a message on the right informing the user.
+
+
+## Credits:
+
+* Gradle Build & CustomLocator was created based on the template from Alexander Barker:
+  * https://github.com/beryx-gist/jnativehook-modular-demo
+* Uses the JNativeHook library from Alex Barker/@kwhat
+  * https://github.com/kwhat/jnativehook
